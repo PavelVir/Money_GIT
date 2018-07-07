@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.6">
+	<ConfigVersions>
+		<Metadata name="Catalog.VIP2_СостояниеЗаданий" id="0f55aa56-79cc-415a-827b-44335248b0f3" configVersion="3333e1baeb13e138426eea1ef88587903af08a2c"/>
+		<Metadata name="Catalog.Контакты" id="f030a51c-c13a-48b6-b515-cafd3d3e080a" configVersion="c82f87b6c090a1b06eff9a0ffb69db6399eabc1a"/>
+		<Metadata name="Catalog.Пользователи" id="0355c5fa-279d-454c-9466-1f4f1d7c4ecc" configVersion="bef25c3088c78a014c6edc06ecfe9b25fe4b46f7"/>
+		<Metadata name="CommonCommand.VIP2_ДобавитьРоль" id="4b23ac45-d5a6-4679-af72-1201c8164e4c" configVersion="57c1e3bbb785d7f6db6f9ba7ab6a421883f087b3"/>
+		<Metadata name="CommonCommand.VIP2_ДобавитьРоль.CommandModule" id="4b23ac45-d5a6-4679-af72-1201c8164e4c.2" configVersion="d43ce9c90c8355be9f6f13ca14fd79bbe850ccb5"/>
+		<Metadata name="Configuration.Vip_Work" id="766b0f83-6447-411e-a90a-e21f27b0aa80" configVersion="2a13246d8bed2f89e4171ddd13440e2982ffb6c4"/>
+		<Metadata name="Configuration.Vip_Work.HomePageWorkArea" id="9adacb67-3d5a-4a4a-b188-b2cf4588c81f.8" configVersion="921ab7aa93a943891538c47890ea3718cd7ac037"/>
+		<Metadata name="Configuration.Vip_Work.MainSectionCommandInterface" id="9adacb67-3d5a-4a4a-b188-b2cf4588c81f.9" configVersion="b025d419415bce910ba8617982ecc8167958429d"/>
+		<Metadata name="DataProcessor.ЗагрузкаИзГугл" id="3ff8ab31-a0aa-4b35-a049-8b473902ad1a" configVersion="f06eb65714f5307ef711bf91b4449b1c8f7d6b77">
+			<Metadata name="DataProcessor.ЗагрузкаИзГугл.Attribute.ТокенДоступа" id="14661912-6a6e-40d3-9a27-cbe96ca65937"/>
+			<Metadata name="DataProcessor.ЗагрузкаИзГугл.Attribute.КодАвторизации" id="95af88db-a852-4fd6-ac9e-bfdd53bdce0c"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ЗагрузкаИзГугл.Form.Настройки" id="88162401-bdb4-4341-8262-8e5fe3a021d2" configVersion="927ed88ab36b27a3d9726b969d2941ecea185022"/>
+		<Metadata name="DataProcessor.ЗагрузкаИзГугл.Form.Настройки.Form" id="88162401-bdb4-4341-8262-8e5fe3a021d2.0" configVersion="88af567004e835508a83baea4a03ff245f8eb2c3"/>
+		<Metadata name="DataProcessor.Календарь" id="55020e9d-07a6-4a13-a8d1-8e695f23f91d" configVersion="12fe883b669bb87a43d657c1a1ac06bb664ac5e2">
+			<Metadata name="DataProcessor.Календарь.Attribute.НачалоПериода" id="00999be3-d535-49e7-8df2-055a7cbb72f8"/>
+			<Metadata name="DataProcessor.Календарь.Attribute.КонецПериода" id="e3f5aba2-e673-4b29-ac25-6a0128576c52"/>
+		</Metadata>
+		<Metadata name="DataProcessor.Календарь.Form.Форма" id="3efbcdba-63d0-47bf-a839-0f1c95de773c" configVersion="86a3e04dba42f1f0ccf2a5094855bc4dbf1d9a04"/>
+		<Metadata name="DataProcessor.Календарь.Form.Форма.Form" id="3efbcdba-63d0-47bf-a839-0f1c95de773c.0" configVersion="a3dfc8ccc647ffeeffb0e545b9557a22be5e1ab2"/>
+		<Metadata name="Document.VIP2_Задача" id="1d85a2a8-26c2-45a0-b8a8-b65b7a49a5e1" configVersion="8778c9e4a5bd4483e3ba8ed7cd869814c4cc16d1">
+			<Metadata name="Document.VIP2_Задача.Attribute.Важность" id="051a9db0-5500-41e4-b9ef-67fe2ba46339"/>
+			<Metadata name="Document.VIP2_Задача.Attribute.ДатаСдачиРаботПланово" id="09d55f29-009d-4cac-882f-1874ecfddebc"/>
+			<Metadata name="Document.VIP2_Задача.TabularSection.Обсуждения.Attribute.ДатаОкончания" id="13c9d123-cd31-4787-b205-1a3302a746e6"/>
+			<Metadata name="Document.VIP2_Задача.TabularSection.Обсуждения.Attribute.ДатаНачала" id="28de8791-05aa-4661-aed0-88aa1c787917"/>
+			<Metadata name="Document.VIP2_Задача.Attribute.ОписаниеЗадачи" id="321daadf-e3e3-4f33-804c-e7605e4f92ab"/>
+			<Metadata name="Document.VIP2_Задача.TabularSection.Обсуждения.Attribute.идСобытия" id="33cfaf71-e427-448c-b16a-912f8e9d8fe0"/>
+			<Metadata name="Document.VIP2_Задача.Attribute.идЗадачи" id="36628abd-5b61-4813-afaf-46305f2d964b"/>
+			<Metadata name="Document.VIP2_Задача.Attribute.ДатаСдачиРаботФакт" id="664ed1c2-680a-4a2b-957d-ae99e4115ee8"/>
+			<Metadata name="Document.VIP2_Задача.TabularSection.Обсуждения.Attribute.Часы" id="714b6160-1477-4e26-930c-0e244e43d318"/>
+			<Metadata name="Document.VIP2_Задача.Attribute.Контрагент" id="73891d31-8f63-478b-b8ea-5a7b26a6eb0e"/>
+			<Metadata name="Document.VIP2_Задача.Attribute.КоличествоЧасовФакт" id="80ade500-18a4-47ea-9f43-3e1ecf970135"/>
+			<Metadata name="Document.VIP2_Задача.Attribute.КоличествоЧасовПланово" id="8b8d2567-3d8e-4c6a-b9bd-e062f28bc3f4"/>
+			<Metadata name="Document.VIP2_Задача.TabularSection.Обсуждения" id="8c170830-6f03-455b-94a6-93c21619eb64"/>
+			<Metadata name="Document.VIP2_Задача.TabularSection.Обсуждения.Attribute.Описание" id="92ea8820-5bf4-4f39-ae29-0511c67f7f43"/>
+			<Metadata name="Document.VIP2_Задача.Attribute.ТемаЗадачи" id="966b70a0-6698-4c02-acb1-3615c13781e1"/>
+			<Metadata name="Document.VIP2_Задача.Attribute.ОписаниеРешения" id="9b2386bb-7edb-4e6e-b9b5-76a629899f18"/>
+			<Metadata name="Document.VIP2_Задача.TabularSection.Обсуждения.Attribute.Автор" id="b0040447-7f7a-4c68-883e-69051441ba99"/>
+			<Metadata name="Document.VIP2_Задача.Attribute.Исполнитель" id="b1f47841-2465-49a8-86a7-3cfc5c2bf54d"/>
+			<Metadata name="Document.VIP2_Задача.Attribute.Состояние" id="e65e89ef-af58-4392-b983-ab55a41dfec8"/>
+		</Metadata>
+		<Metadata name="Document.VIP2_Задача.Form.ФормаДокумента" id="1bec91bb-570f-459b-a697-60ebb9bcdf82" configVersion="0855c85298f3d58b1aa2e4607911ba93398ca892"/>
+		<Metadata name="Document.VIP2_Задача.Form.ФормаДокумента.Form" id="1bec91bb-570f-459b-a697-60ebb9bcdf82.0" configVersion="b3e174bf85c3e2ebba9b2478da21be4d7b28d861"/>
+		<Metadata name="Document.VIP2_Задача.Form.ФормаСписка" id="44293890-0445-4cbf-a0dc-e283239494ce" configVersion="6d4bd9c552f101f8201a613fd597dbd966641871"/>
+		<Metadata name="Document.VIP2_Задача.Form.ФормаСписка.Form" id="44293890-0445-4cbf-a0dc-e283239494ce.0" configVersion="b65dd8cd2f5a3748d8bd55dbe1e3d57ef7a24ce0"/>
+		<Metadata name="Document.VIP2_Задача.ObjectModule" id="1d85a2a8-26c2-45a0-b8a8-b65b7a49a5e1.0" configVersion="6445c3e6c580e45aec675bce2b65a84ccbc8f92b"/>
+		<Metadata name="Language.Русский" id="bced80ef-ddc5-48ab-8c8f-d55a74800ed7" configVersion="69f379eada5d509977d099243a688b3eb379da89"/>
+		<Metadata name="Role.VIP2_РедактированиеЗадачи" id="d9bd2133-636d-4b51-a9d2-e43ce2b6ddae" configVersion="313b0d243710f40753e6d2223fa5d3345da49c58"/>
+		<Metadata name="Role.VIP2_РедактированиеЗадачи.Rights" id="d9bd2133-636d-4b51-a9d2-e43ce2b6ddae.0" configVersion="ced18db0eb5ebe556bb6126b1a3f1ffc9946113f"/>
+		<Metadata name="Role.ПолныеПрава" id="3f8dc50b-5401-435e-9737-3abdd96c43e8" configVersion="6ae548ce6f095af651abfd3a126c098e93d12a6a"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="3f8dc50b-5401-435e-9737-3abdd96c43e8.0" configVersion="45bb8f6023ef66a97450ca166d80c8b0ff6f4da9"/>
+		<Metadata name="Subsystem.VIP2_Задачи" id="8cd7c995-f4f4-48a9-b215-8a829c2bdd6c" configVersion="7d13579a8b43f35a9c133ae280fa2153d8a37898"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
